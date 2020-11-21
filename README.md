@@ -1,7 +1,7 @@
-#MinecordTrackingTool
+# MinecordTrackingTool
 
 Used for tracking daily averages.
 
-#TradingCalculator
+# TradingCalculator
 
 Used for getting prices during trading.
