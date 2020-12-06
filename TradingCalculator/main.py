@@ -4,7 +4,7 @@ program_state = 1
 #0: Not running
 #1: Running
 
-print("Tranding Calculator for Minecord")
+print("Trading Calculator for Minecord")
 print("Press Control-C to quit.")
 
 def initialize():
